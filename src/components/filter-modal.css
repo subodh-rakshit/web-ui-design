@@ -1,0 +1,41 @@
+.search-filter-text {
+  margin: 20px 48px 56px 12px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: #182135;
+}
+
+.close-icon {
+  margin: 20px 28px 64px 0px;
+}
+
+.sort-by-text {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: #182135;
+  margin: 0px 0px 44px 12px;
+}
+
+.flame-icon {
+  padding: 12px 15px 12px 15px;
+  background: rgba(251, 109, 58, 0.1);
+  border-radius: 9px;
+}
+
+.open-text {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fb6d3a;
+  margin-left: 16px;
+}
+
+.cuisine {
+  margin: 48px 32px 32px 12px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: #182135;
+}

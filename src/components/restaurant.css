@@ -1,0 +1,375 @@
+.pomo-logo-image {
+  margin: 36px 6px 52px 29px;
+}
+
+.pomo-and-comp {
+  margin: 36px 0px 52px 0px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2d2d2d;
+}
+
+.home-image-outer-div {
+  background-color: #503e9d;
+  border-radius: 12px;
+  margin: 0px 16px 0px 16px;
+}
+
+.home-image {
+  padding: 17px 24px 16px 16px;
+}
+
+.tab-images-outer-div {
+  border-radius: 12px;
+  margin: 0px 16px 0px 16px;
+}
+
+.tab-image {
+  padding: 17px 24px 16px 16px;
+}
+
+.order-details {
+  background: #ffffff;
+  box-shadow: 0px 32px 96px -8px rgba(0, 0, 0, 0.06);
+  margin: 172px 32px 0px 32px;
+  border-radius: 20px;
+  padding-bottom: 32px;
+}
+
+.first-inner-div {
+  background: rgba(255, 255, 255, 0.7);
+  height: 12px;
+  border-radius: 0px 0px 20px 20px;
+  margin: 0px 48px 0px 48px;
+}
+
+.second-inner-div {
+  background: rgba(255, 255, 255, 0.6);
+  height: 12px;
+  border-radius: 0px 0px 20px 20px;
+  margin: 0px 64px 0px 64px;
+}
+
+.text-font {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #626264;
+}
+
+.text-font-active {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #f7fafc;
+}
+
+.notification-number {
+  background: #503e9d;
+  padding-right: 6px;
+  padding-left: 6px;
+  border-radius: 30px;
+  color: #f7fafc;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.close-button {
+  padding: 16px 16px 0px 0px;
+}
+
+.clock-icon {
+  margin: 4px 0px 0px 0px;
+  padding: 16px;
+}
+
+.ready-order-text {
+  margin: 24px 0px 32px 0px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  color: #182135;
+  text-align: center;
+}
+
+.order-id {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #626264;
+}
+
+.details {
+  margin: 32px 32px 0px 32px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #f7fafc;
+  background: #503e9d;
+  border-radius: 10px;
+  padding: 12px 32px 12px 32px;
+}
+
+.name-and-email {
+  margin: 51px 0px 0px 32px;
+}
+
+.ordered-name {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #182135;
+}
+
+.ordered-email {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+  color: #626264;
+}
+
+.arrow-css {
+  margin: 0px 27px 6px 0px;
+}
+
+.left-arrow {
+  background: #503e9d;
+  border-radius: 10px;
+  padding: 16px 19px 16px 19px;
+  margin: 32px 0px 0px 32px;
+}
+
+.category-text {
+  margin: 47px 0px 32px 32px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.category-items {
+  margin: 0px 0px 48px 32px;
+}
+
+.category-active{
+  background-color: #503e9d;
+  padding: 6px;
+  border-radius: 10px;
+}
+
+.images-text-spacing {
+  margin-right: 15px;
+}
+
+.row-mapping-first {
+  margin: 0px 32px 42px 32px;
+}
+
+.restaurant-name-tab {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #182135;
+}
+
+.restaurant-open {
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 16px;
+  color: #503e9d;
+  padding: 4px 8px 4px 8px;
+  background: rgba(80, 62, 157, 0.1);
+  border-radius: 4px;
+}
+
+.restaurant-closed {
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 16px;
+  padding: 4px 8px 4px 8px;
+  color: #fb6d3a;
+  background: rgba(251, 109, 58, 0.1);
+  border-radius: 4px;
+}
+
+.restaurant-text {
+  margin: 0px 0px 32px 32px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: #182135;
+}
+
+.category-items-text {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #182135;
+}
+
+.category-items-text-active{
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.item-cart {
+  background: #fb6d3a;
+  border-radius: 10px;
+  padding: 14px;
+  margin: 32px 32px 0px 0px;
+}
+
+.magnifying-glass {
+  background: #f7f7f7;
+  border-radius: 10px;
+  margin-top: 42px;
+}
+
+.input-box {
+  margin: 12px 1px 12px 0px;
+  outline: none;
+  max-width: 500px;
+  min-width: 400px;
+}
+
+.da-otto-text {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  color: #182135;
+  margin: 0px 44px 0px 12px;
+  padding-top: 2px;
+}
+
+.filter-icon {
+  background: #503e9d;
+  border-radius: 10px;
+  padding: 14px;
+  margin: 32px 16px 0px 16px;
+}
+.overlay {
+  position: absolute;
+  top: 62px;
+  right: 32px;
+  text-align: right;
+  font-weight: 800;
+  font-size: 11px;
+  line-height: 16px;
+  background-color: black;
+  color: white;
+  padding: 4px 8px 4px 9px;
+  border-radius: 10px;
+}
+
+/* .restaurant-details-image{
+  position: absolute;
+width: 559px;
+height: 296px;
+left: 849px;
+top: 128px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.16), rgba(0, 0, 0, 0.16)), url(.jpg);
+border-radius: 16px;
+} */
+
+.restaurant-image {
+  margin: 48px 0px 58px 0px;
+}
+
+.restaurant-name {
+  margin: 48px 0px 12px 32px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  color: #182135;
+}
+
+.restaurant-description {
+  margin: 0px 15px 20px 32px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #626264;
+}
+
+.small-images {
+  margin-left: 32px;
+  margin-right: 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+.small-images-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #626264;
+}
+
+.bottom-margin-details {
+  margin-bottom: 20px;
+}
+
+.menu-tabs {
+  margin: 0px 0px 30px 32px;
+}
+
+.menu-css-active {
+  margin-right: 16px;
+  padding: 8px 16px 8px 16px;
+  background: #503e9d;
+  color: #f7fafc;
+
+  border-radius: 8px;
+}
+
+.menu-css {
+  margin-right: 16px;
+  padding: 8px 16px 8px 16px;
+  border-radius: 8px;
+  background: #f7f7f7;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #626264;
+}
+
+.menu-text {
+  margin: 0px 0px 32px 32px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: #182135;
+}
+
+.mapping-first-outer {
+  margin-right: 32px;
+  margin-bottom: 42px;
+}
+
+.mapping-second-outer {
+  margin-right: 32px;
+  margin-bottom: 52px;
+}
+
+.item-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #182135;
+}
+
+.item-cost {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #503e9d;
+}
+
+.max-width-div{
+  width: 25%;
+}
